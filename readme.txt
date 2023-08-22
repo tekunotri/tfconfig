@@ -5,7 +5,7 @@ launch options: -precachefontchars -freq 144 -novid -nosteamcontroller -softpart
 res: 1280x960 4:3
 
 how to install:
-backup your tf/cfg and tf/custom folders first!!!!!!!
+backup your tf/cfg folder first!!!!!!!
 drag both folders into your root tf folder and say yes when asked to overwrite
 
 
