@@ -8,6 +8,7 @@ how to install:
 backup your tf/cfg folder first!!!!!!!
 drag both folders into your root tf folder and say yes when asked to overwrite
 
+edit technobinds.cfg to edit binds
 
 want to uninstall the config? here's a tutorial on how to reset your game: https://docs.mastercomfig.com/page/setup/clean_up/
 
@@ -21,3 +22,5 @@ cleantf2plus flat textures (sometimes)
 
 m0re_techno https://github.com/TechnoSL/m0re_techno
 or some random hud in my hud folder https://drive.google.com/file/d/1mYh8S9uWSGpEaPx38waWopuQ7xlcutTG/view
+
+
