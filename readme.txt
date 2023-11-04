@@ -5,11 +5,11 @@ launch options: -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachef
 res: 1280x960 4:3
 
 how to install:
-backup your tf/cfg folder first!!!!!!!
-drag every file into tf/cfg in your tf/ folder
+backup your tf/cfg and custom folder first!!!!!!!
+drag both folders into your tf/ folder
 done
 
-edit technobinds.cfg to edit binds
+edit cfg/technobinds.cfg to edit binds
 
 want to uninstall the config? here's a tutorial on how to reset your game: https://docs.mastercomfig.com/page/setup/clean_up/
 
