@@ -1,6 +1,6 @@
-techno config 21/05/23
+techno config 04/11/23
 
-launch options: -precachefontchars -freq 144 -novid -nosteamcontroller -softparticlesdefaultoff -reuse -nohltv -console -nostartupsound -particles 1 -NoQueuedPacketThread +cl_clean_textures_on_death 1 +mat_lodin_time 0
+launch options: -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime
 1000 dpi // sensitivity 3 - gpx superlight
 res: 1280x960 4:3
 
