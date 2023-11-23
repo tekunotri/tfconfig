@@ -79,7 +79,7 @@ fWeaponData
 		}
 		"crosshair"
 		{
-				"file"		"vgui/replay/thumbnails/skrimusbrackets"
+				"file"		"vgui/replay/thumbnails/highfivesolid"
 				"x"		"0"
 				"y"		"0"
 				"width"		"64"

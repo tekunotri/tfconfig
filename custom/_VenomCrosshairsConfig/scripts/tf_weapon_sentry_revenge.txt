@@ -80,7 +80,7 @@ WeaponData
 		}
 		"crosshair"
 		{
-				"file"		"vgui/replay/thumbnails/skrimusbrackets"
+				"file"		"vgui/replay/thumbnails/default_edit_new"
 				"x"		"0"
 				"y"		"0"
 				"width"		"64"
