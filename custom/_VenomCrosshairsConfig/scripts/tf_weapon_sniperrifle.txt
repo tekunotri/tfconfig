@@ -77,7 +77,7 @@ WeaponData
 		}
 		"crosshair"
 		{
-				"file"		"vgui/replay/thumbnails/BaseOL"
+				"file"		"vgui/replay/thumbnails/darkShadowCross"
 				"x"		"0"
 				"y"		"0"
 				"width"		"64"
