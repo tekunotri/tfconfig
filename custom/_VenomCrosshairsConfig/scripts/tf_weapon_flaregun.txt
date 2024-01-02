@@ -82,7 +82,7 @@ WeaponData
 		}
 		"crosshair"
 		{
-				"file"		"vgui/replay/thumbnails/highfivesolid"
+				"file"		"vgui/replay/thumbnails/smdfreakazoid"
 				"x"		"0"
 				"y"		"0"
 				"width"		"64"
