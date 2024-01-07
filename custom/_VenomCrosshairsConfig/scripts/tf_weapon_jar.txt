@@ -1,4 +1,4 @@
-	WeaponData
+WeaponData
 {
 	// Attributes Base.
 	"printname"			"#TF_Weapon_Jar"
@@ -71,7 +71,7 @@
 
 		"crosshair"
 		{
-				"file"		"vgui/replay/thumbnails/aimbeastthin"
+				"file"		"vgui/replay/thumbnails/Brackets_ScattergunRework2"
 				"x"		"0"
 				"y"		"0"
 				"width"		"64"
