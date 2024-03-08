@@ -71,7 +71,7 @@ WeaponData
 
 		"crosshair"
 		{
-				"file"		"vgui/replay/thumbnails/Brackets_ScattergunRework2"
+				"file"		"vgui/replay/thumbnails/brackets"
 				"x"		"0"
 				"y"		"0"
 				"width"		"64"

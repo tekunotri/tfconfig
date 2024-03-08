@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$basetexture" "slemseekeredit"
+	"$basetexture" "vgui\replay\thumbnails\slemseekeredit"
 	"$translucent" "1"
 	"$ignorez" "1"
 	"$vertexcolor" "1"

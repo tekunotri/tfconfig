@@ -67,7 +67,7 @@ WeaponData
 
 		"crosshair"
 		{
-				"file"		"vgui/replay/thumbnails/aimbeastthin"
+				"file"		"vgui/replay/thumbnails/brackets"
 				"x"		"0"
 				"y"		"0"
 				"width"		"64"
