@@ -1,6 +1,6 @@
 @echo off
 cls
-IF NOT EXIST "..\..\hl2.exe" (goto :WAIT)
+IF NOT EXIST "..\..\tf_win64.exe" (goto :WAIT)
 goto :DOIT
 
 :WAIT
