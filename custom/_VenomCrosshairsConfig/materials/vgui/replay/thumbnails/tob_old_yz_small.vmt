@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "tob_old_yz_small"
+	"$translucent" "1"
+	"$ignorez" "1"
+	"$vertexcolor" "1"
+	"$no_fullbright" "1"
+}

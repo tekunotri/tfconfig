@@ -69,7 +69,7 @@ WeaponData
 		}
 		"crosshair"
 		{
-				"file"		"vgui/replay/thumbnails/dot_tob"
+				"file"		"vgui/replay/thumbnails/cpma_15"
 				"x"		"0"
 				"y"		"0"
 				"width"		"64"

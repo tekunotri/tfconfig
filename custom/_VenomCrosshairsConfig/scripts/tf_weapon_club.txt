@@ -67,7 +67,7 @@ WeaponData
 
 		"crosshair"
 		{
-				"file"		"vgui/replay/thumbnails/cpma_17"
+				"file"		"vgui/replay/thumbnails/cpma_15"
 				"x"		"0"
 				"y"		"0"
 				"width"		"64"

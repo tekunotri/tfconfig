@@ -81,7 +81,7 @@ WeaponData
 		}
 		"crosshair"
 		{
-				"file"		"vgui/replay/thumbnails/bracketsRussEdit"
+				"file"		"vgui/replay/thumbnails/Brackets_ScattergunRework2"
 				"x"		"0"
 				"y"		"0"
 				"width"		"64"

@@ -21,7 +21,7 @@ remove freezecam sound
 remove halloween soul sound
 cleantf2plus flat textures (sometimes)
 
-m0re_techno https://github.com/TechnoSL/m0re_techno
+technohud https://github.com/tekunotri/technohud
 or some random hud in my hud folder https://drive.google.com/file/d/1mYh8S9uWSGpEaPx38waWopuQ7xlcutTG/view
 
 

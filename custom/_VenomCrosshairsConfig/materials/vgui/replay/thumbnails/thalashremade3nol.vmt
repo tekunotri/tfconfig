@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui\replay\thumbnails\thalashremade3nol"
+	"$translucent" "1"
+	"$ignorez" "1"
+	"$vertexcolor" "1"
+	"$no_fullbright" "1"
+}
