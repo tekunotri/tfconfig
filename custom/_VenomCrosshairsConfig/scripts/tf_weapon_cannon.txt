@@ -32,9 +32,9 @@ WeaponData
 	"bucket_position"	"0"
 	
 	"ExplosionSound"	"Weapon_LooseCannon.Explode"
-	"ExplosionEffect"		"muzzle_minigun_starflash01"
-	"ExplosionPlayerEffect"		"muzzle_minigun_starflash01"
-	"ExplosionWaterEffect"		"muzzle_minigun_starflash01"
+	"ExplosionEffect"		"eotl_pyro_pool_explosion_flash"
+	"ExplosionPlayerEffect"		"eotl_pyro_pool_explosion_flash"
+	"ExplosionWaterEffect"		"eotl_pyro_pool_explosion_flash"
 
 
 	// Animation.
