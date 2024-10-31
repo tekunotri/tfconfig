@@ -80,7 +80,7 @@ WeaponData
 		}
 		"crosshair"
 		{
-				"file"		"vgui/replay/thumbnails/collaide_dot"
+				"file"		"vgui/replay/thumbnails/bomo1"
 				"x"		"0"
 				"y"		"0"
 				"width"		"64"

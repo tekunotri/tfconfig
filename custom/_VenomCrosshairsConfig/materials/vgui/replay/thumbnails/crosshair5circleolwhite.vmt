@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$basetexture" "crosshair5circleOLwhite"
+	"$basetexture" "vgui\replay\thumbnails\crosshair5circleOLwhite"
 	"$translucent" "1"
 	"$ignorez" "1"
 	"$vertexcolor" "1"
