@@ -32,9 +32,9 @@ WeaponData
 	"bucket_position"	"0"
 	
 	"ExplosionSound"	"Weapon_Grenade_Pipebomb.Explode"
-	"ExplosionEffect"	"eotl_pyro_pool_explosion_flash"
-	"ExplosionPlayerEffect"	"eotl_pyro_pool_explosion_flash"
-	"ExplosionWaterEffect"	"eotl_pyro_pool_explosion_flash"
+	"ExplosionEffect"	"electrocuted_red_flash"
+	"ExplosionPlayerEffect"	"electrocuted_blue_flash"
+	"ExplosionWaterEffect"	"electrocuted_red_flash"
 
 
 	// Animation.
@@ -84,7 +84,7 @@ WeaponData
 		}
 		"crosshair"
 		{
-				"file"		"vgui/replay/thumbnails/BaseOpenOL"
+				"file"		"vgui/replay/thumbnails/bomo2"
 				"x"		"0"
 				"y"		"0"
 				"width"		"64"

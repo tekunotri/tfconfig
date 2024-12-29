@@ -1,0 +1,1 @@
+#base ../../resource/cs/th_fonts/th_grisaia.res 

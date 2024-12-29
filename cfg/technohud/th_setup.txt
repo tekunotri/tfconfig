@@ -1,0 +1,4 @@
+alias tkh_firstrun 
+alias tkh_firstrun 
+alias tkh_firstrun 
+alias th_firstrun 

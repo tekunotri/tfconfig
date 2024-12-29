@@ -68,7 +68,7 @@ WeaponData
 
 		"crosshair"
 		{
-				"file"		"vgui/replay/thumbnails/dot_tob"
+				"file"		"vgui/replay/thumbnails/starkyellow"
 				"x"		"0"
 				"y"		"0"
 				"width"		"64"
