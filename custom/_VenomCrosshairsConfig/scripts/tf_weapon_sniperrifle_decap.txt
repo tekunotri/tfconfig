@@ -77,7 +77,7 @@ WeaponData
 		}
 		"crosshair"
 		{
-				"file"		"vgui/replay/thumbnails/QL2"
+				"file"		"vgui/replay/thumbnails/smallercrosshair7"
 				"x"		"0"
 				"y"		"0"
 				"width"		"64"
@@ -85,7 +85,7 @@ WeaponData
 		}
 		"zoom"
 		{
-				"file"		"vgui/replay/thumbnails/QL2"
+				"file"		"vgui/replay/thumbnails/smallercrosshair7"
 				"x"		"0"
 				"y"		"0"
 				"width"		"64"
