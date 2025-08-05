@@ -1,1 +1,0 @@
-#base ../../resource/ui/customizations/heads_counter/huditemeffectmeter_demoman_bottom_right.res 

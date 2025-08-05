@@ -76,7 +76,7 @@ WeaponData
 		}
 		"crosshair"
 		{
-				"file"		"vgui/replay/thumbnails/cpma_11"
+				"file"		"vgui/replay/thumbnails/seekeroutlineedit"
 				"x"		"0"
 				"y"		"0"
 				"width"		"64"

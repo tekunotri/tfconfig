@@ -1,1 +1,0 @@
-#base ../../resource/ui/customizations/damage/damagenumbers_big.res 
