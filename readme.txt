@@ -1,4 +1,4 @@
-techno config 01/02/25
+techno config 28/08/25
 
 launch options: -console -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime
 1000 dpi // sensitivity 3 - gpx superlight 2

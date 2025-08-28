@@ -32,9 +32,9 @@ WeaponData
 	"bucket_position"	"0"
 	
 	"ExplosionSound"	"Weapon_Grenade_Pipebomb.Explode"
-	"ExplosionEffect"	"ExplosionCore_sapperdestroyed"
-	"ExplosionPlayerEffect"	"ExplosionCore_sapperdestroyed"
-	"ExplosionWaterEffect"	"ExplosionCore_sapperdestroyed"
+	"ExplosionEffect"	"muzzle_minigun_starflash01"
+	"ExplosionPlayerEffect"	"muzzle_minigun_starflash01"
+	"ExplosionWaterEffect"	"muzzle_minigun_starflash01"
 
 
 	// Animation.
@@ -84,7 +84,7 @@ WeaponData
 		}
 		"crosshair"
 		{
-				"file"		"vgui/replay/thumbnails/bomo2"
+				"file"		"vgui/replay/thumbnails/BaseOpenOL"
 				"x"		"0"
 				"y"		"0"
 				"width"		"64"
