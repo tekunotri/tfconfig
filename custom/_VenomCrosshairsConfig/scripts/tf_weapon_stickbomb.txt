@@ -68,7 +68,7 @@ WeaponData
 
 		"crosshair"
 		{
-				"file"		"vgui/replay/thumbnails/BaseOpenOL"
+				"file"		"vgui/replay/thumbnails/bomo2"
 				"x"		"0"
 				"y"		"0"
 				"width"		"64"

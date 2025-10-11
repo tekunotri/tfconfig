@@ -31,9 +31,9 @@ WeaponData
 	"bucket"		"0"
 	"bucket_position"	"0"	
 
-	"ExplosionEffect"		"muzzle_minigun_starflash01"
-	"ExplosionPlayerEffect"		"muzzle_minigun_starflash01"
-	"ExplosionWaterEffect"		"muzzle_minigun_starflash01"
+	"ExplosionEffect"		"electrocuted_red_flash"
+	"ExplosionPlayerEffect"		"electrocuted_blue_flash"
+	"ExplosionWaterEffect"		"electrocuted_red_flash"
 
 	"ExplosionSound"	"Weapon_RPG_DirectHit.Explode"
 
@@ -80,7 +80,7 @@ WeaponData
 		}
 		"crosshair"
 		{
-				"file"		"vgui/replay/thumbnails/QL2"
+				"file"		"vgui/replay/thumbnails/quarteredcircle"
 				"x"		"0"
 				"y"		"0"
 				"width"		"64"
