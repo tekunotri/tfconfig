@@ -80,7 +80,7 @@ WeaponData
 		}
 		"crosshair"
 		{
-				"file"		"vgui/replay/thumbnails/quarteredcircle"
+				"file"		"vgui/replay/thumbnails/circumference"
 				"x"		"0"
 				"y"		"0"
 				"width"		"64"
