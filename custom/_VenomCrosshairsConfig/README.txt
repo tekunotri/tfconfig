@@ -1,4 +1,4 @@
-This crosshair config was generated using Venom Crosshairs (beta17.0)
+This crosshair config was generated using Venom Crosshairs (beta18.0)
 
 https://github.com/hbivnm/Venom-Crosshairs
 

@@ -2424,7 +2424,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_94dB"
 	"volume"	"1.0"
-	"wave"		")weapons/pistol_shoot.wav"
+	"wave"		")vo/pistol_shoot.wav"
 }
 
 "Weapon_Pistol.SingleCrit"
@@ -2432,7 +2432,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_94dB"
 	"volume"	"1.0"
-	"wave"		")weapons/pistol_shoot_crit.wav"
+	"wave"		")vo/pistol_shoot_crit.wav"
 }
 
 "Weapon_Pistol.ClipEmpty"
@@ -2474,7 +2474,7 @@
 	"channel"	"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"	".5"
-	"wave"		"weapons/pistol_reload_scout.wav"
+	"wave"		"vo/pistol_reload_scout.wav"
 }
 
 "Weapon_Pistol.WorldReload"
@@ -2482,7 +2482,7 @@
 	"channel"		"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"		".5"
-	"wave"		"weapons/pistol_worldreload.wav"
+	"wave"		"vo/pistol_worldreload.wav"
 }
 
 "Weapon_Pistol.WorldReloadEngineer"
@@ -2491,7 +2491,7 @@
 	"volume"		"0.35"
 	"soundlevel"	"SNDLVL_NORM"
 
-	"wave"		"weapons/pistol_clipin.wav"
+	"wave"		"vo/pistol_clipin.wav"
 }
 
 // ------------------------------------------------------------------------------------ //
@@ -2604,7 +2604,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_94dB"
 	"volume"	"1.0"
-	"wave"		")vo/ambassador_shoot.wav"
+	"wave"		")vo/ambassador_shoot_crit.wav"
 }
 
 // ------------------------------------------------------------------------------------ //
@@ -3154,7 +3154,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_94dB"
 	"volume"	"1.0"
-	"wave"		")weapons/sniper_shoot.wav"
+	"wave"		")vo/sniper_shoot.wav"
 }
 
 "Weapon_SniperRifle.SingleCrit"
@@ -3162,7 +3162,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_94dB"
 	"volume"	"1.0"
-	"wave"		")weapons/sniper_shoot_crit.wav"
+	"wave"		")vo/sniper_shoot_crit.wav"
 }
 
 "Weapon_SniperRifle.WorldReload"
@@ -3171,7 +3171,7 @@
 	"volume"	"0.35"
 	"soundlevel"	"SNDLVL_NORM"
 
-	"wave"		"weapons/sniper_worldreload.wav"
+	"wave"		"vo/sniper_worldreload.wav"
 }
 
 "Weapon_SniperRifle.ClipEmpty"
@@ -3196,7 +3196,7 @@
 	"channel"	"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"	".45"
-	"wave"		"weapons/sniper_bolt_back.wav"
+	"wave"		"vo/sniper_bolt_back.wav"
 }
 
 "Weapon_SniperRifle.BoltBack"
@@ -3204,7 +3204,7 @@
 	"channel"	"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"	".45"
-	"wave"		"weapons/sniper_bolt_forward.wav"
+	"wave"		"vo/sniper_bolt_forward.wav"
 }
 
 // ------------------------------------------------------------------------------------ //
