@@ -1,1 +1,1 @@
-#base ../../custom/technohud/resource/ui/customizations/colors/clientscheme/gray.res 
+#base ../../custom/technohud/resource/ui/customizations/colors/clientscheme/green.res 

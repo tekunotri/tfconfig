@@ -1806,9 +1806,9 @@
 	"volume"	"1.0"
 	"rndwave"
 	{
-        "wave"        ")vo/blade_hit1.wav"
-        "wave"        ")vo/blade_hit2.wav"
-        "wave"        ")vo/blade_hit3.wav"
+        "wave"        ")weapons/blade_hit1.wav"
+        "wave"        ")weapons/blade_hit2.wav"
+        "wave"        ")weapons/blade_hit3.wav"
 	}
 }
 
@@ -1817,7 +1817,7 @@
 	"channel"	"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_NORM"
 	"volume"	"1.0"
-	"wave"		")vo/blade_hitworld.wav"
+	"wave"		")weapons/blade_hitworld.wav"
 
 }
 
@@ -3104,7 +3104,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_94dB"
 	"volume"	"1.0"
-	"wave"		")weapons\tf_sniper_bazaar_bargain_crit.wav"
+	"wave"		")weapons/tf_sniper_bazaar_bargain_crit.wav"
 }
 
 // ------------------------------------------------------------------------------------ //
@@ -3154,7 +3154,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_94dB"
 	"volume"	"1.0"
-	"wave"		")vo/sniper_shoot.wav"
+	"wave"		")weapons/sniper_shoot.wav"
 }
 
 "Weapon_SniperRifle.SingleCrit"
@@ -3162,7 +3162,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_94dB"
 	"volume"	"1.0"
-	"wave"		")vo/sniper_shoot_crit.wav"
+	"wave"		")weapons/sniper_shoot_crit.wav"
 }
 
 "Weapon_SniperRifle.WorldReload"
@@ -3171,7 +3171,7 @@
 	"volume"	"0.35"
 	"soundlevel"	"SNDLVL_NORM"
 
-	"wave"		"vo/sniper_worldreload.wav"
+	"wave"		"weapons/sniper_worldreload.wav"
 }
 
 "Weapon_SniperRifle.ClipEmpty"
@@ -3196,7 +3196,7 @@
 	"channel"	"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"	".45"
-	"wave"		"vo/sniper_bolt_back.wav"
+	"wave"		"weapons/sniper_bolt_back.wav"
 }
 
 "Weapon_SniperRifle.BoltBack"
@@ -3204,7 +3204,7 @@
 	"channel"	"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"	".45"
-	"wave"		"vo/sniper_bolt_forward.wav"
+	"wave"		"weapons/sniper_bolt_forward.wav"
 }
 
 // ------------------------------------------------------------------------------------ //
@@ -3520,9 +3520,9 @@
 	"pitch"		"95, 100"
 	"rndwave"
 	{
-		"wave"	")weapons\cow_mangler_explosion_normal_01.wav"
-		"wave"	")weapons\cow_mangler_explosion_normal_02.wav"
-		"wave"	")weapons\cow_mangler_explosion_normal_03.wav"
+		"wave"	")weapons/cow_mangler_explosion_normal_01.wav"
+		"wave"	")weapons/cow_mangler_explosion_normal_02.wav"
+		"wave"	")weapons/cow_mangler_explosion_normal_03.wav"
 	}
 }
 
@@ -3534,9 +3534,9 @@
 	"pitch"		"95, 100"
 	"rndwave"
 	{
-		"wave"	")weapons\cow_mangler_explosion_charge_01.wav"
-		"wave"	")weapons\cow_mangler_explosion_charge_02.wav"
-		"wave"	")weapons\cow_mangler_explosion_charge_03.wav"
+		"wave"	")weapons/cow_mangler_explosion_charge_01.wav"
+		"wave"	")weapons/cow_mangler_explosion_charge_02.wav"
+		"wave"	")weapons/cow_mangler_explosion_charge_03.wav"
 	}
 }
 
@@ -3555,10 +3555,10 @@
 	"volume"	".25"
 	"rndwave"
 	{
-		"wave"	"weapons\cow_mangler_reload.wav"
-		"wave"	"weapons\cow_mangler_reload_02.wav"
-		"wave"	"weapons\cow_mangler_reload_03.wav"
-		"wave"	"weapons\cow_mangler_reload_04.wav"
+		"wave"	"weapons/cow_mangler_reload.wav"
+		"wave"	"weapons/cow_mangler_reload_02.wav"
+		"wave"	"weapons/cow_mangler_reload_03.wav"
+		"wave"	"weapons/cow_mangler_reload_04.wav"
 	}
 }
 
@@ -3569,10 +3569,10 @@
 	"volume"	".25"
 	"rndwave"
 	{
-		"wave"	")weapons\cow_mangler_reload.wav"
-		"wave"	")weapons\cow_mangler_reload_02.wav"
-		"wave"	")weapons\cow_mangler_reload_03.wav"
-		"wave"	")weapons\cow_mangler_reload_04.wav"
+		"wave"	")weapons/cow_mangler_reload.wav"
+		"wave"	")weapons/cow_mangler_reload_02.wav"
+		"wave"	")weapons/cow_mangler_reload_03.wav"
+		"wave"	")weapons/cow_mangler_reload_04.wav"
 	}
 }
 
@@ -3581,7 +3581,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_NORM"
 	"volume"	".65"
-	"wave"	"weapons\cow_mangler_reload_final.wav"
+	"wave"	"weapons/cow_mangler_reload_final.wav"
 }
 
 "Weapon_CowMangler.WorldReloadFinal"
@@ -3589,7 +3589,7 @@
 	"channel"	"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_NORM"
 	"volume"	".25"
-	"wave"	")weapons\cow_mangler_reload_final.wav"
+	"wave"	")weapons/cow_mangler_reload_final.wav"
 }
 
 // ------------------------------------------------------------------------------------ //
@@ -3602,8 +3602,8 @@
 	"soundlevel"	"SNDLVL_NORM"
 	"rndwave"
 	{
-		"wave"	")weapons\bison_main_shot_01.wav"
-		"wave"	")weapons\bison_main_shot_02.wav"
+		"wave"	")weapons/bison_main_shot_01.wav"
+		"wave"	")weapons/bison_main_shot_02.wav"
 	}
 }
 
@@ -3612,7 +3612,7 @@
 	"channel"	"CHAN_WEAPON"
 	"volume"	"1.0"
 	"soundlevel"	"SNDLVL_NORM"
-	"wave"	")weapons\bison_main_shot_crit.wav"
+	"wave"	")weapons/bison_main_shot_crit.wav"
 }
 
 "Weapon_Bison.Reload"
@@ -5406,9 +5406,9 @@
 	"volume"	"0.95, 1.0"
 	"rndwave"
 	{
-		"wave"		")weapons\samurai\TF_marked_for_death_impact_01.wav"
-		"wave"		")weapons\samurai\TF_marked_for_death_impact_02.wav"
-		"wave"		")weapons\samurai\TF_marked_for_death_impact_03.wav"
+		"wave"		")weapons/samurai\TF_marked_for_death_impact_01.wav"
+		"wave"		")weapons/samurai\TF_marked_for_death_impact_02.wav"
+		"wave"		")weapons/samurai\TF_marked_for_death_impact_03.wav"
 	}
 }
 
@@ -5417,7 +5417,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_100dB"
 	"volume"	"1.0"
-	"wave"		"weapons\samurai\TF_marked_for_death_indicator.wav"
+	"wave"		"weapons/samurai\TF_marked_for_death_indicator.wav"
 }
 
 // ------------------------------------------------------------------------------------ //
@@ -5430,7 +5430,7 @@
 	"soundlevel"	"SNDLVL_NORM"
 	"pitch"		"95,105"
 	"volume"	"0.75, 0.8"
-		"wave"		")weapons\flare_detonator_launch.wav"
+		"wave"		")weapons/flare_detonator_launch.wav"
 }
 
 "Weapon_Detonator.Detonate"
@@ -5438,7 +5438,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_100dB"
 	"volume"	"1.0"
-	"wave"		")weapons\flare_detonator_explode.wav"
+	"wave"		")weapons/flare_detonator_explode.wav"
 }
 
 "Weapon_Detonator.DetonateWorld"
@@ -5446,7 +5446,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_100dB"
 	"volume"	"1.0"
-	"wave"		")weapons\flare_detonator_explode_world.wav"
+	"wave"		")weapons/flare_detonator_explode_world.wav"
 }
 
 
@@ -5469,7 +5469,7 @@
 	"channel"	"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_NORM"
 	"volume"	"1.0"
-	"wave"  	"weapons\saxxy_impact_gen_01.wav"
+	"wave"  	"weapons/saxxy_impact_gen_01.wav"
 }
 
 // ------------------------------------------------------------------------------------ //
@@ -5483,8 +5483,8 @@
 	"volume"	"1.0"
 	"rndwave"
 	{
-		"wave"		")weapons\discipline_device_impact_01.wav"
-		"wave"		")weapons\discipline_device_impact_02.wav"
+		"wave"		")weapons/discipline_device_impact_01.wav"
+		"wave"		")weapons/discipline_device_impact_02.wav"
 	}
 }
 
@@ -5495,8 +5495,8 @@
 	"volume"	"1.0"
 	"rndwave"
 	{
-		"wave"		")weapons\discipline_device_impact_crit_01.wav"
-		"wave"		")weapons\discipline_device_impact_crit_02.wav"
+		"wave"		")weapons/discipline_device_impact_crit_01.wav"
+		"wave"		")weapons/discipline_device_impact_crit_02.wav"
 	}
 }
 
@@ -5505,7 +5505,7 @@
 	"channel"	"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_NORM"
 	"volume"	"0.9"
-	"wave"		")weapons\discipline_device_hit_world.wav"
+	"wave"		")weapons/discipline_device_hit_world.wav"
 }
 
 "DisciplineDevice.Swing"
@@ -5515,8 +5515,8 @@
 	"volume"	"1.0"
 	"rndwave"
 	{
-		"wave"		")weapons\discipline_device_woosh_01.wav"
-		"wave"		")weapons\discipline_device_woosh_02.wav"
+		"wave"		")weapons/discipline_device_woosh_01.wav"
+		"wave"		")weapons/discipline_device_woosh_02.wav"
 	}
 }
 
@@ -5525,7 +5525,7 @@
 	"channel"	"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_NORM"
 	"volume"	"1.0"
-	"wave"		")weapons\discipline_device_power_up.wav"
+	"wave"		")weapons/discipline_device_power_up.wav"
 }
 
 "DisciplineDevice.PowerDown"
@@ -5533,7 +5533,7 @@
 	"channel"	"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_NORM"
 	"volume"	"1.0"
-	"wave"		")weapons\discipline_device_power_down.wav"
+	"wave"		")weapons/discipline_device_power_down.wav"
 }
 
 // ------------------------------------------------------------------------------------ //
@@ -5547,10 +5547,10 @@
 	"volume"	"1.0"
 	"rndwave"
 	{
-		"wave"		")weapons\eviction_notice_01.wav"
-		"wave"		")weapons\eviction_notice_02.wav"
-		"wave"		")weapons\eviction_notice_03.wav"
-		"wave"		")weapons\eviction_notice_04.wav"
+		"wave"		")weapons/eviction_notice_01.wav"
+		"wave"		")weapons/eviction_notice_02.wav"
+		"wave"		")weapons/eviction_notice_03.wav"
+		"wave"		")weapons/eviction_notice_04.wav"
 	}
 }
 
@@ -5561,10 +5561,10 @@
 	"volume"	"1.0"
 	"rndwave"
 	{
-		"wave"		")weapons\eviction_notice_01_crit.wav"
-		"wave"		")weapons\eviction_notice_02_crit.wav"
-		"wave"		")weapons\eviction_notice_03_crit.wav"
-		"wave"		")weapons\eviction_notice_04_crit.wav"
+		"wave"		")weapons/eviction_notice_01_crit.wav"
+		"wave"		")weapons/eviction_notice_02_crit.wav"
+		"wave"		")weapons/eviction_notice_03_crit.wav"
+		"wave"		")weapons/eviction_notice_04_crit.wav"
 	}
 }
 
@@ -5575,8 +5575,8 @@
 	"volume"	"1.0"
 	"rndwave"
 	{
-		"wave"		")weapons\demo_sword_hit_world1.wav"
-		"wave"		")weapons\demo_sword_hit_world2.wav"
+		"wave"		")weapons/demo_sword_hit_world1.wav"
+		"wave"		")weapons/demo_sword_hit_world2.wav"
 	}
 }
 
@@ -5587,9 +5587,9 @@
 	"volume"	"1.0"
 	"rndwave"
 	{
-		"wave"		"weapons\boxing_gloves_swing1.wav"
-		"wave"		"weapons\boxing_gloves_swing2.wav"
-		"wave"		"weapons\boxing_gloves_swing4.wav"
+		"wave"		"weapons/boxing_gloves_swing1.wav"
+		"wave"		"weapons/boxing_gloves_swing2.wav"
+		"wave"		"weapons/boxing_gloves_swing4.wav"
 	}
 }
 
@@ -5604,10 +5604,10 @@
 	"volume"	"1.0"
 	"rndwave"
 	{
-		"wave"		")weapons\eviction_notice_01.wav"
-		"wave"		")weapons\eviction_notice_02.wav"
-		"wave"		")weapons\eviction_notice_03.wav"
-		"wave"		")weapons\eviction_notice_04.wav"
+		"wave"		")weapons/eviction_notice_01.wav"
+		"wave"		")weapons/eviction_notice_02.wav"
+		"wave"		")weapons/eviction_notice_03.wav"
+		"wave"		")weapons/eviction_notice_04.wav"
 	}
 }
 
@@ -5618,10 +5618,10 @@
 	"volume"	"1.0"
 	"rndwave"
 	{
-		"wave"		")weapons\eviction_notice_01_crit.wav"
-		"wave"		")weapons\eviction_notice_02_crit.wav"
-		"wave"		")weapons\eviction_notice_03_crit.wav"
-		"wave"		")weapons\eviction_notice_04_crit.wav"
+		"wave"		")weapons/eviction_notice_01_crit.wav"
+		"wave"		")weapons/eviction_notice_02_crit.wav"
+		"wave"		")weapons/eviction_notice_03_crit.wav"
+		"wave"		")weapons/eviction_notice_04_crit.wav"
 	}
 }
 
@@ -5632,8 +5632,8 @@
 	"volume"	"1.0"
 	"rndwave"
 	{
-		"wave"		")weapons\demo_sword_hit_world1.wav"
-		"wave"		")weapons\demo_sword_hit_world2.wav"
+		"wave"		")weapons/demo_sword_hit_world1.wav"
+		"wave"		")weapons/demo_sword_hit_world2.wav"
 	}
 }
 
@@ -5644,9 +5644,9 @@
 	"volume"	"1.0"
 	"rndwave"
 	{
-		"wave"		"weapons\boxing_gloves_swing1.wav"
-		"wave"		"weapons\boxing_gloves_swing2.wav"
-		"wave"		"weapons\boxing_gloves_swing4.wav"
+		"wave"		"weapons/boxing_gloves_swing1.wav"
+		"wave"		"weapons/boxing_gloves_swing2.wav"
+		"wave"		"weapons/boxing_gloves_swing4.wav"
 	}
 }
 
@@ -5662,10 +5662,10 @@
 	"volume"	"1.0"
 	"rndwave"
 	{
-		"wave"		")weapons\reserve_shooter_01.wav"
-		"wave"		")weapons\reserve_shooter_02.wav"
-		"wave"		")weapons\reserve_shooter_03.wav"
-		"wave"		")weapons\reserve_shooter_04.wav"
+		"wave"		")weapons/reserve_shooter_01.wav"
+		"wave"		")weapons/reserve_shooter_02.wav"
+		"wave"		")weapons/reserve_shooter_03.wav"
+		"wave"		")weapons/reserve_shooter_04.wav"
 	}
 }
 
@@ -5676,10 +5676,10 @@
 	"volume"	"1.0"
 	"rndwave"
 	{
-		"wave"		")weapons\reserve_shooter_01_crit.wav"
-		"wave"		")weapons\reserve_shooter_02_crit.wav"
-		"wave"		")weapons\reserve_shooter_03_crit.wav"
-		"wave"		")weapons\reserve_shooter_04_crit.wav"
+		"wave"		")weapons/reserve_shooter_01_crit.wav"
+		"wave"		")weapons/reserve_shooter_02_crit.wav"
+		"wave"		")weapons/reserve_shooter_03_crit.wav"
+		"wave"		")weapons/reserve_shooter_04_crit.wav"
 	}
 }
 
@@ -5733,7 +5733,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_NORM"
 	"volume"	"1.0"
-	"wave"		")weapons\mantreads.wav"
+	"wave"		")weapons/mantreads.wav"
 }
 
 
@@ -5747,14 +5747,14 @@
 	"channel"	"CHAN_WEAPON"
 	"volume"	"1"
 	"soundlevel"	"SNDLVL_94dB"
-	"wave"		"weapons\quake_rpg_fire_remastered.wav"
+	"wave"		"weapons/quake_rpg_fire_remastered.wav"
 }
 
 "Weapon_QuakeRPG.SingleCrit"
 {
 	"channel"	"CHAN_WEAPON"
 	"volume"	"1"
-	"wave"		"weapons\quake_rpg_fire_remastered_crit.wav"
+	"wave"		"weapons/quake_rpg_fire_remastered_crit.wav"
 }
 
 "Weapon_QuakeRPG.Draw"
@@ -5762,7 +5762,7 @@
 	"channel"	"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"	"1"
-	"wave"		"weapons\quake_ammo_pickup_remastered.wav"
+	"wave"		"weapons/quake_ammo_pickup_remastered.wav"
 }
 
 "Weapon_QuakeRPG.Reload"
@@ -5770,7 +5770,7 @@
 	"channel"	"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"	"1"
-	"wave"		"weapons\quake_rpg_reload_remastered.wav"
+	"wave"		"weapons/quake_rpg_reload_remastered.wav"
 }
 
 "Weapon_QuakeRPG.WorldReload"
@@ -5778,7 +5778,7 @@
 	"channel"	"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"	"1"
-	"wave"		"weapons\quake_rpg_reload_remastered.wav"
+	"wave"		"weapons/quake_rpg_reload_remastered.wav"
 }
 
 "Weapon_QuakeRPG.Explode"
@@ -5787,7 +5787,7 @@
 	"soundlevel"	"SNDLVL_95dB"
 	"volume"	"1"
 	"pitch"		"PITCH_NORM"
-	"wave"		"weapons\quake_explosion_remastered.wav"
+	"wave"		"weapons/quake_explosion_remastered.wav"
 }
 
 // ------------------------------------------------------------------------------------ //
@@ -5800,9 +5800,9 @@
 	"volume"	"0.8"
 	"rndwave"
 	{
-		"wave"		")weapons\diamond_back_01.wav"
-		"wave"		")weapons\diamond_back_02.wav"
-		"wave"		")weapons\diamond_back_03.wav"
+		"wave"		")weapons/diamond_back_01.wav"
+		"wave"		")weapons/diamond_back_02.wav"
+		"wave"		")weapons/diamond_back_03.wav"
 	}
 }
 
@@ -5813,9 +5813,9 @@
 	"volume"	"1.0"
 	"rndwave"
 	{
-		"wave"		")weapons\diamond_back_01_crit.wav"
-		"wave"		")weapons\diamond_back_02_crit.wav"
-		"wave"		")weapons\diamond_back_03_crit.wav"
+		"wave"		")weapons/diamond_back_01_crit.wav"
+		"wave"		")weapons/diamond_back_02_crit.wav"
+		"wave"		")weapons/diamond_back_03_crit.wav"
 	}
 }
 
@@ -5830,8 +5830,8 @@
 	"volume"	"1.0"
 	"rndwave"
 	{
-		"wave"		")weapons\sniper_railgun_single_01.wav"
-		"wave"		")weapons\sniper_railgun_single_02.wav"
+		"wave"		")weapons/sniper_railgun_single_01.wav"
+		"wave"		")weapons/sniper_railgun_single_02.wav"
 	}
 }
 
@@ -5842,8 +5842,8 @@
 	"volume"	"1.0"
 	"rndwave"
 	{
-		"wave"		")weapons\sniper_railgun_single_crit.wav"
-		"wave"		")weapons\sniper_railgun_single_crit_02.wav"
+		"wave"		")weapons/sniper_railgun_single_crit.wav"
+		"wave"		")weapons/sniper_railgun_single_crit_02.wav"
 	}
 }
 
@@ -5854,8 +5854,8 @@
 	"volume"	"1.0"
 	"rndwave"
 	{
-		"wave"		")weapons\sniper_railgun_charged_shot_01.wav"
-		"wave"		")weapons\sniper_railgun_charged_shot_02.wav"
+		"wave"		")weapons/sniper_railgun_charged_shot_01.wav"
+		"wave"		")weapons/sniper_railgun_charged_shot_02.wav"
 	}
 }
 
@@ -5866,8 +5866,8 @@
 	"volume"	"1.0"
 	"rndwave"
 	{
-		"wave"		")weapons\sniper_railgun_charged_shot_crit_01.wav"
-		"wave"		")weapons\sniper_railgun_charged_shot_crit_02.wav"
+		"wave"		")weapons/sniper_railgun_charged_shot_crit_01.wav"
+		"wave"		")weapons/sniper_railgun_charged_shot_crit_02.wav"
 	}
 }
 
@@ -5877,7 +5877,7 @@
 	"volume"	"0.35"
 	"soundlevel"	"SNDLVL_NORM"
 
-	"wave"		")weapons\sniper_railgun_world_reload.wav"
+	"wave"		")weapons/sniper_railgun_world_reload.wav"
 }
 
 "Weapon_SniperRailgun.ClipEmpty"
@@ -5886,7 +5886,7 @@
 	"volume"	"0.7"
 	"soundlevel"	"SNDLVL_NORM"
 
-	"wave"		")weapons\sniper_railgun_dry_fire.wav"
+	"wave"		")weapons/sniper_railgun_dry_fire.wav"
 }
 
 "Weapon_SniperRailgun.NonScoped"
@@ -5895,7 +5895,7 @@
 	"volume"	"0.7"
 	"soundlevel"	"SNDLVL_NORM"
 
-	"wave"		")weapons\sniper_railgun_no_fire.wav"
+	"wave"		")weapons/sniper_railgun_no_fire.wav"
 }
 
 "Weapon_SniperRailgun.Draw"
@@ -5911,7 +5911,7 @@
 	"channel"	"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"	".45"
-	"wave"		")weapons\sniper_railgun_bolt_forward.wav"
+	"wave"		")weapons/sniper_railgun_bolt_forward.wav"
 }
 
 "Weapon_SniperRailgun.BoltBack"
@@ -5919,7 +5919,7 @@
 	"channel"	"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"	".45"
-	"wave"		")weapons\sniper_railgun_bolt_back.wav"
+	"wave"		")weapons/sniper_railgun_bolt_back.wav"
 }
 
 // ------------------------------------------------------------------------------------ //
@@ -5933,9 +5933,9 @@
 	"volume"	"0.9"
 	"rndwave"
 	{
-		"wave"		")weapons\widow_maker_shot_01.wav"
-		"wave"		")weapons\widow_maker_shot_02.wav"
-		"wave"		")weapons\widow_maker_shot_03.wav"
+		"wave"		")weapons/widow_maker_shot_01.wav"
+		"wave"		")weapons/widow_maker_shot_02.wav"
+		"wave"		")weapons/widow_maker_shot_03.wav"
 	}
 }
 
@@ -5946,9 +5946,9 @@
 	"volume"	"0.9"
 	"rndwave"
 	{
-		"wave"		")weapons\widow_maker_shot_crit_01.wav"
-		"wave"		")weapons\widow_maker_shot_crit_02.wav"
-		"wave"		")weapons\widow_maker_shot_crit_03.wav"
+		"wave"		")weapons/widow_maker_shot_crit_01.wav"
+		"wave"		")weapons/widow_maker_shot_crit_02.wav"
+		"wave"		")weapons/widow_maker_shot_crit_03.wav"
 	}
 }
 
@@ -5957,7 +5957,7 @@
 	"channel"	"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_NORM"
 	"volume"	"1.0"
-	"wave"		")weapons\widow_maker_dry_fire.wav"
+	"wave"		")weapons/widow_maker_dry_fire.wav"
 }
 
 "Weapon_WidowMaker.Draw"
@@ -5973,7 +5973,7 @@
 	"channel"	"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"	".5"
-	"wave"		")weapons\widow_maker_pump_action_back.wav"
+	"wave"		")weapons/widow_maker_pump_action_back.wav"
 }
 
 "Weapon_WidowMaker.Cock_Forward"
@@ -5981,7 +5981,7 @@
 	"channel"	"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"	".5"
-	"wave"		")weapons\widow_maker_pump_action_forward.wav"
+	"wave"		")weapons/widow_maker_pump_action_forward.wav"
 }
 
 // ------------------------------------------------------------------------------------ //
@@ -5994,7 +5994,7 @@
 	"channel"	"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_94dB"
 	"volume"	"1"
-	"wave"		")weapons\barret_arm_shot.wav"
+	"wave"		")weapons/barret_arm_shot.wav"
 }
 
 "Weapon_BarretsArm.Draw"
@@ -6002,7 +6002,7 @@
 	"channel"	"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"	"0"
-	"wave"		"weapons\barret_arm_draw.wav"
+	"wave"		"weapons/barret_arm_draw.wav"
 }
 
 "Weapon_BarretsArm.Fizzle"
@@ -6010,7 +6010,7 @@
 	"channel"	"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"	".7"
-	"wave"		")weapons\barret_arm_fizzle.wav"
+	"wave"		")weapons/barret_arm_fizzle.wav"
 }
 
 "Weapon_BarretsArm.Zap"
@@ -6018,7 +6018,7 @@
 	"channel"	"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_94dB"
 	"volume"	"1.0"
-	"wave"		")weapons\barret_arm_zap.wav"
+	"wave"		")weapons/barret_arm_zap.wav"
 }
 
 //-----------------------------------------//
@@ -6047,7 +6047,7 @@
 	"volume"	"1.0"
 	"pitch"		"PITCH_NORM"
 	
-	"wave"		")weapons\spy_assassin_knife_draw.wav"
+	"wave"		")weapons/spy_assassin_knife_draw.wav"
 }
 
 "Weapon_Assassin_Knife.Miss"
@@ -6073,8 +6073,8 @@
 	"volume"	"1.0"
 	"rndwave"
 	{
-		"wave"		")weapons\spy_assassin_knife_impact_01.wav"
-		"wave"		")weapons\spy_assassin_knife_impact_02.wav"
+		"wave"		")weapons/spy_assassin_knife_impact_01.wav"
+		"wave"		")weapons/spy_assassin_knife_impact_02.wav"
 	}
 }
 
@@ -6093,7 +6093,7 @@
 	"volume"	"1.0"
 	"pitch"		"PITCH_NORM"
 	
-	"wave"		")weapons\spy_assassin_knife_bckstb.wav"
+	"wave"		")weapons/spy_assassin_knife_bckstb.wav"
 }
 
 
@@ -6161,7 +6161,7 @@
 	"channel"	"CHAN_WEAPON"
 	"volume"	"1.0"
 	"soundlevel"	"SNDLVL_NORM"
-	"wave"	")weapons\man_melter_fire.wav"
+	"wave"	")weapons/man_melter_fire.wav"
 }
 
 "Weapon_ManMelter.SingleCrit"
@@ -6169,7 +6169,7 @@
 	"channel"	"CHAN_WEAPON"
 	"volume"	"1.0"
 	"soundlevel"	"SNDLVL_NORM"
-	"wave"	")weapons\man_melter_fire_crit.wav"
+	"wave"	")weapons/man_melter_fire_crit.wav"
 }
 
 "Weapon_ManMelter.altfire_lp"	
@@ -6177,7 +6177,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_94dB"
 	"volume"	"1.0"
-	"wave"		")weapons\man_melter_alt_fire_lp.wav"
+	"wave"		")weapons/man_melter_alt_fire_lp.wav"
 }
 
 
@@ -6191,8 +6191,8 @@
 	"soundlevel"	"SNDLVL_75dB"
 	"rndwave"
 	{
-		"wave"	"weapons\ball_buster_break_01.wav"
-		"wave"	"weapons\ball_buster_break_02.wav"
+		"wave"	"weapons/ball_buster_break_01.wav"
+		"wave"	"weapons/ball_buster_break_02.wav"
 	}
 }
 
@@ -6203,8 +6203,8 @@
 	"soundlevel"	"SNDLVL_75dB"
 	"rndwave"
 	{
-		"wave"	"weapons\ball_buster_break_01_crowd.wav"
-		"wave"	"weapons\ball_buster_break_02_crowd.wav"
+		"wave"	"weapons/ball_buster_break_01_crowd.wav"
+		"wave"	"weapons/ball_buster_break_02_crowd.wav"
 	}
 }
 
@@ -6214,7 +6214,7 @@
 	"soundlevel"	"SNDLVL_75dB"
 	"volume"	"1.0"
 	"pitch"		"115"
-	"wave"		"weapons\ball_buster_hit_02.wav"
+	"wave"		"weapons/ball_buster_hit_02.wav"
 }
 
 "BallBuster.HitFlesh"
@@ -6222,7 +6222,7 @@
 	"channel"	"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_NORM"
 	"volume"	"1.0"
-	"wave"		"weapons\ball_buster_hit_01.wav"
+	"wave"		"weapons/ball_buster_hit_01.wav"
 }
 
 "BallBuster.HitWorld"
@@ -6230,7 +6230,7 @@
 	"channel"	"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_NORM"
 	"volume"	"1.0"
-	"wave"		"weapons\ball_buster_hit_01.wav"
+	"wave"		"weapons/ball_buster_hit_01.wav"
 }
 
 "BallBuster.DrawCatch"
@@ -6238,7 +6238,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_NORM"
 	"volume"	".75"
-	"wave"		"weapons\ball_buster_hit_01.wav"
+	"wave"		"weapons/ball_buster_hit_01.wav"
 }
 
 "BallBuster.Ornament_DrawCatch"
@@ -6248,8 +6248,8 @@
 	"volume"	"1.0"
 	"rndwave"
 	{
-		"wave"		"weapons\ball_buster_catch_01.wav"
-		"wave"		"weapons\ball_buster_catch_02.wav"
+		"wave"		"weapons/ball_buster_catch_01.wav"
+		"wave"		"weapons/ball_buster_catch_02.wav"
 	}
 }
 
@@ -6260,12 +6260,12 @@
 	"soundlevel"	"SNDLVL_70dB"
 	"rndwave"
 	{
-		"wave"		")weapons\ball_buster_bounce_01.wav"
-		"wave"		")weapons\ball_buster_bounce_02.wav"
-		"wave"		")weapons\ball_buster_bounce_03.wav"
-		"wave"		")weapons\ball_buster_bounce_04.wav"
-		"wave"		")weapons\ball_buster_bounce_05.wav"
-		"wave"		")weapons\ball_buster_bounce_06.wav"
+		"wave"		")weapons/ball_buster_bounce_01.wav"
+		"wave"		")weapons/ball_buster_bounce_02.wav"
+		"wave"		")weapons/ball_buster_bounce_03.wav"
+		"wave"		")weapons/ball_buster_bounce_04.wav"
+		"wave"		")weapons/ball_buster_bounce_05.wav"
+		"wave"		")weapons/ball_buster_bounce_06.wav"
 	}
 }
 
@@ -6277,7 +6277,7 @@
 	"channel"	"CHAN_WEAPON"
 	"volume"	"1.0"
 	"soundlevel"	"SNDLVL_NORM"
-	"wave"	")weapons\pomson_fire_01.wav"
+	"wave"	")weapons/pomson_fire_01.wav"
 }
 
 "Weapon_Pomson.SingleCrit"
@@ -6285,7 +6285,7 @@
 	"channel"	"CHAN_WEAPON"
 	"volume"	"1.0"
 	"soundlevel"	"SNDLVL_NORM"
-	"wave"	")weapons\pomson_fire_crit_01.wav"
+	"wave"	")weapons/pomson_fire_crit_01.wav"
 }
 
 "Weapon_Pomson.Reload"
@@ -6333,7 +6333,7 @@
 	"channel"	"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_94dB"
 	"volume"	"1.0"
-	"wave"		")weapons\phlog_ignite.wav"
+	"wave"		")weapons/phlog_ignite.wav"
 }
 
 "Weapon_phlogistinator.FireLoop"	
@@ -6341,7 +6341,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_94dB"
 	"volume"	"1.0"
-	"wave"		")weapons\phlog_loop.wav"
+	"wave"		")weapons/phlog_loop.wav"
 }
 
 "Weapon_phlogistinator.FireLoopCrit"
@@ -6349,7 +6349,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_94dB"
 	"volume"	"1.0"
-	"wave"		")weapons\phlog_loop_crit.wav"
+	"wave"		")weapons/phlog_loop_crit.wav"
 }
 
 "Weapon_phlogistinator.WindDown"	
@@ -6357,7 +6357,7 @@
 	"channel"	"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_94dB"
 	"volume"	"1.0"
-	"wave"		")weapons\phlog_end.wav"
+	"wave"		")weapons/phlog_end.wav"
 }
 
 
@@ -6372,10 +6372,10 @@
 	"volume"	"1.0"
 	"rndwave"
 	{
-		"wave"		")weapons\3rd_degree_hit_01.wav"
-		"wave"		")weapons\3rd_degree_hit_02.wav"
-		"wave"		")weapons\3rd_degree_hit_03.wav"
-		"wave"		")weapons\3rd_degree_hit_04.wav"
+		"wave"		")weapons/3rd_degree_hit_01.wav"
+		"wave"		")weapons/3rd_degree_hit_02.wav"
+		"wave"		")weapons/3rd_degree_hit_03.wav"
+		"wave"		")weapons/3rd_degree_hit_04.wav"
 	}
 }
 
@@ -6386,10 +6386,10 @@
 	"volume"	"1.0"
 	"rndwave"
 	{
-		"wave"		")weapons\3rd_degree_hit_world_01.wav"
-		"wave"		")weapons\3rd_degree_hit_world_02.wav"
-		"wave"		")weapons\3rd_degree_hit_world_03.wav"
-		"wave"		")weapons\3rd_degree_hit_world_04.wav"
+		"wave"		")weapons/3rd_degree_hit_world_01.wav"
+		"wave"		")weapons/3rd_degree_hit_world_02.wav"
+		"wave"		")weapons/3rd_degree_hit_world_03.wav"
+		"wave"		")weapons/3rd_degree_hit_world_04.wav"
 	}
 }
 
@@ -6403,7 +6403,7 @@
 	"channel"	"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_NORM"
 	"volume"	"0.6"
-	"wave"		")weapons\mittens_punch.wav"
+	"wave"		")weapons/mittens_punch.wav"
 }
 
 "Weapon_mittens.CritHit"
@@ -6411,7 +6411,7 @@
 	"channel"	"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_NORM"
 	"volume"	"0.8"
-	"wave"		")weapons\mittens_punch_crit.wav"
+	"wave"		")weapons/mittens_punch_crit.wav"
 }
 
 "Weapon_mittens.HitWorld"
@@ -6419,7 +6419,7 @@
 	"channel"	"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_NORM"
 	"volume"	"0.5"
-	"wave"		")weapons\mittens_punch.wav"
+	"wave"		")weapons/mittens_punch.wav"
 }
 
 "Weapon_mittens.HitGlove"
@@ -6427,7 +6427,7 @@
 	"channel"	"CHAN_AUTO"
 	"soundlevel"	"SNDLVL_NORM"
 	"volume"	".4"
-	"wave"		")weapons\mittens_punch.wav"
+	"wave"		")weapons/mittens_punch.wav"
 }
 
 // ------------------------------------------------------------------------------------ //
@@ -6624,11 +6624,11 @@
 	
 	"rndwave"
 	{
-		"wave"		")weapons\cleaver_hit_02.wav"
-		"wave"		")weapons\cleaver_hit_03.wav"
-		"wave"		")weapons\cleaver_hit_05.wav"
-		"wave"		")weapons\cleaver_hit_06.wav"
-		"wave"		")weapons\cleaver_hit_07.wav"
+		"wave"		")weapons/cleaver_hit_02.wav"
+		"wave"		")weapons/cleaver_hit_03.wav"
+		"wave"		")weapons/cleaver_hit_05.wav"
+		"wave"		")weapons/cleaver_hit_06.wav"
+		"wave"		")weapons/cleaver_hit_07.wav"
 	}
 }
 
@@ -6637,7 +6637,7 @@
 	"channel"		"CHAN_STATIC"
 	"volume"		"1.0"
 	"soundlevel"	"SNDLVL_85dB"
-	"wave"		")weapons\cleaver_hit_world.wav"
+	"wave"		")weapons/cleaver_hit_world.wav"
 }
 
 "Cleaver.Single"
@@ -6667,10 +6667,10 @@
 	
 	"rndwave"
 	{
-		"wave"		")weapons\neon_sign_hit_01.wav"
-		"wave"		")weapons\neon_sign_hit_02.wav"
-		"wave"		")weapons\neon_sign_hit_03.wav"
-		"wave"		")weapons\neon_sign_hit_04.wav"
+		"wave"		")weapons/neon_sign_hit_01.wav"
+		"wave"		")weapons/neon_sign_hit_02.wav"
+		"wave"		")weapons/neon_sign_hit_03.wav"
+		"wave"		")weapons/neon_sign_hit_04.wav"
 	}
 }
 
@@ -6682,10 +6682,10 @@
 	
 	"rndwave"
 	{
-		"wave"		")weapons\neon_sign_hit_world_01.wav"
-		"wave"		")weapons\neon_sign_hit_world_02.wav"
-		"wave"		")weapons\neon_sign_hit_world_03.wav"
-		"wave"		")weapons\neon_sign_hit_world_04.wav"
+		"wave"		")weapons/neon_sign_hit_world_01.wav"
+		"wave"		")weapons/neon_sign_hit_world_02.wav"
+		"wave"		")weapons/neon_sign_hit_world_03.wav"
+		"wave"		")weapons/neon_sign_hit_world_04.wav"
 	}
 }
 
@@ -6700,11 +6700,11 @@
 	
 	"rndwave"
 	{
-		"wave"		")weapons\spy_tape_01.wav"
-		"wave"		")weapons\spy_tape_02.wav"
-		"wave"		")weapons\spy_tape_03.wav"
-		"wave"		")weapons\spy_tape_04.wav"
-		"wave"		")weapons\spy_tape_05.wav"
+		"wave"		")weapons/spy_tape_01.wav"
+		"wave"		")weapons/spy_tape_02.wav"
+		"wave"		")weapons/spy_tape_03.wav"
+		"wave"		")weapons/spy_tape_04.wav"
+		"wave"		")weapons/spy_tape_05.wav"
 	}
 }
 
@@ -6790,7 +6790,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_94dB"
 	"volume"	"1.0"
-	"wave"		")weapons\rescue_ranger_fire.wav"
+	"wave"		")weapons/rescue_ranger_fire.wav"
 }
 
 "Weapon_RescueRanger.SingleCrit"
@@ -6798,7 +6798,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_94dB"
 	"volume"	"1.0"
-	"wave"		")weapons\rescue_ranger_fire_crit.wav"
+	"wave"		")weapons/rescue_ranger_fire_crit.wav"
 }
 
 "Weapon_RescueRanger.charge_01"
@@ -6806,7 +6806,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_94dB"
 	"volume"	"1.0"
-	"wave"		")weapons\rescue_ranger_charge_01.wav"
+	"wave"		")weapons/rescue_ranger_charge_01.wav"
 }
 
 "Weapon_RescueRanger.charge_02"
@@ -6814,7 +6814,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_94dB"
 	"volume"	"1.0"
-	"wave"		")weapons\rescue_ranger_charge_02.wav"
+	"wave"		")weapons/rescue_ranger_charge_02.wav"
 }
 
 "RescueRanger_Teleporter.Send"
@@ -6825,8 +6825,8 @@
 	"volume"	"0.700000"
 	"rndwave"
 	{
-		"wave"		")weapons\rescue_ranger_teleport_send_01.wav"
-		"wave"		")weapons\rescue_ranger_teleport_send_02.wav"
+		"wave"		")weapons/rescue_ranger_teleport_send_01.wav"
+		"wave"		")weapons/rescue_ranger_teleport_send_02.wav"
 	}
 }
 
@@ -6837,8 +6837,8 @@
 	"soundlevel"	"SNDLVL_74dB"
 	"rndwave"
 	{
-		"wave"		")weapons\rescue_ranger_teleport_receive_01.wav"
-		"wave"		")weapons\rescue_ranger_teleport_receive_02.wav"
+		"wave"		")weapons/rescue_ranger_teleport_receive_01.wav"
+		"wave"		")weapons/rescue_ranger_teleport_receive_02.wav"
 	}
 }
 
@@ -6850,7 +6850,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"	"1"
-	"wave"		")weapons\vaccinator_heal.wav"
+	"wave"		")weapons/vaccinator_heal.wav"
 }
 
 "WeaponMedigun_Vaccinator.Charged_tier_01"
@@ -6858,7 +6858,7 @@
 	"channel"		"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"		"1"
-	"wave"		")weapons\vaccinator_charge_tier_01.wav"
+	"wave"		")weapons/vaccinator_charge_tier_01.wav"
 }
 
 "WeaponMedigun_Vaccinator.Charged_tier_02"
@@ -6866,7 +6866,7 @@
 	"channel"		"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"		"1"
-	"wave"		")weapons\vaccinator_charge_tier_02.wav"
+	"wave"		")weapons/vaccinator_charge_tier_02.wav"
 }
 
 "WeaponMedigun_Vaccinator.Charged_tier_03"
@@ -6874,7 +6874,7 @@
 	"channel"		"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"		"1"
-	"wave"		")weapons\vaccinator_charge_tier_03.wav"
+	"wave"		")weapons/vaccinator_charge_tier_03.wav"
 }
 
 "WeaponMedigun_Vaccinator.Charged_tier_04"
@@ -6882,7 +6882,7 @@
 	"channel"		"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"		"1"
-	"wave"		")weapons\vaccinator_charge_tier_04.wav"
+	"wave"		")weapons/vaccinator_charge_tier_04.wav"
 }
 
 "WeaponMedigun_Vaccinator.InvulnerableOn"
@@ -6906,7 +6906,7 @@
 	"channel"		"CHAN_STATIC"
 	"volume"	"1"
 	"soundlevel"  	"SNDLVL_86dB"
-	"wave"		")weapons\vaccinator_toggle.wav"
+	"wave"		")weapons/vaccinator_toggle.wav"
 }
 
 // ------------------------------------------------------------------------------------ //
@@ -6963,7 +6963,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"	"1"
-	"wave"		")weapons\vaccinator_heal.wav"
+	"wave"		")weapons/vaccinator_heal.wav"
 }
 
 "WeaponMedi_Shield.Deploy"
@@ -6971,7 +6971,7 @@
 	"channel"	"CHAN_WEAPON"
 	"volume"	"1"
 	"soundlevel"	"SNDLVL_95dB"
-	"wave"		")weapons\medi_shield_deploy.wav"
+	"wave"		")weapons/medi_shield_deploy.wav"
 }
 
 "WeaponMedi_Shield.Retract"
@@ -6979,7 +6979,7 @@
 	"channel"	"CHAN_WEAPON"
 	"volume"	"1"
 	"soundlevel"	"SNDLVL_95dB"
-	"wave"		")weapons\medi_shield_retract.wav"
+	"wave"		")weapons/medi_shield_retract.wav"
 }
 
 "WeaponMedi_Shield.Burn"
@@ -6991,17 +6991,17 @@
 
 	"rndwave"
 	{
-		"wave"	"weapons\medi_shield_burn_01.wav"
-		"wave"	"weapons\medi_shield_burn_02.wav"
-		"wave"	"weapons\medi_shield_burn_03.wav"
-		"wave"	"weapons\medi_shield_burn_04.wav"
-		"wave"	"weapons\medi_shield_burn_05.wav"
-		"wave"	"weapons\medi_shield_burn_06.wav"
-		"wave"	"weapons\medi_shield_burn_07.wav"
-		"wave"	"weapons\medi_shield_burn_08.wav"
-		"wave"	"weapons\medi_shield_burn_09.wav"
-		"wave"	"weapons\medi_shield_burn_10.wav"
-		"wave"	"weapons\medi_shield_burn_11.wav"
+		"wave"	"weapons/medi_shield_burn_01.wav"
+		"wave"	"weapons/medi_shield_burn_02.wav"
+		"wave"	"weapons/medi_shield_burn_03.wav"
+		"wave"	"weapons/medi_shield_burn_04.wav"
+		"wave"	"weapons/medi_shield_burn_05.wav"
+		"wave"	"weapons/medi_shield_burn_06.wav"
+		"wave"	"weapons/medi_shield_burn_07.wav"
+		"wave"	"weapons/medi_shield_burn_08.wav"
+		"wave"	"weapons/medi_shield_burn_09.wav"
+		"wave"	"weapons/medi_shield_burn_10.wav"
+		"wave"	"weapons/medi_shield_burn_11.wav"
 	}
 }
 
@@ -7012,7 +7012,7 @@
 	"soundlevel"  	"SNDLVL_94dB"
 	"pitch"			"PITCH_NORM"
 
-	"wave"	")weapons\medi_burn_lp.wav"
+	"wave"	")weapons/medi_burn_lp.wav"
 }
 "Weapon_Airstrike.AltFire"
 {
@@ -7257,7 +7257,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_84dB"
 	"volume"	"1"
-	"wave"		")weapons\grappling_hook_shoot.wav"
+	"wave"		")weapons/grappling_hook_shoot.wav"
 }
 
 "WeaponGrapplingHook.ReelStart"
@@ -7265,7 +7265,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_84dB"
 	"volume"	"1"
-	"wave"		")weapons\grappling_hook_reel_start.wav"
+	"wave"		")weapons/grappling_hook_reel_start.wav"
 }
 
 "WeaponGrapplingHook.ReelStop"
@@ -7273,7 +7273,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_84dB"
 	"volume"	"1"
-	"wave"		")weapons\grappling_hook_reel_stop.wav"
+	"wave"		")weapons/grappling_hook_reel_stop.wav"
 }
 
 "WeaponGrapplingHook.ImpactDefault"
@@ -7282,7 +7282,7 @@
 	"soundlevel"	"SNDLVL_84dB"
 	"volume"	"1"
 	"pitch"		"PITCH_NORM"
-	"wave"		"weapons\grappling_hook_impact_default.wav"
+	"wave"		"weapons/grappling_hook_impact_default.wav"
 }
 
 "WeaponGrapplingHook.ImpactFlesh"
@@ -7290,7 +7290,7 @@
 	"channel"	"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_94dB"
 	"volume"	"1"
-	"wave"		")weapons\grappling_hook_impact_flesh.wav"
+	"wave"		")weapons/grappling_hook_impact_flesh.wav"
 }
 
 "WeaponGrapplingHook.ImpactFleshLoop"
@@ -7298,7 +7298,7 @@
 	"channel"	"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"	"1"
-	"wave"		")weapons\grappling_hook_impact_flesh_loop.wav"
+	"wave"		")weapons/grappling_hook_impact_flesh_loop.wav"
 }
 
 "WeaponGrapplingHook.Wind"
@@ -7306,7 +7306,7 @@
 	"channel"		"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_85dB"
 	"volume"		"0"
-	"wave"			")weapons\grappling_hook_wind.wav"
+	"wave"			")weapons/grappling_hook_wind.wav"
 }
 
 // ------------------------------------------------------------------------------------ //
@@ -7318,7 +7318,7 @@
 	"channel"	"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"	".2"
-	"wave"		"weapons\weapon_inspect_movement1.wav"
+	"wave"		"weapons/weapon_inspect_movement1.wav"
 }
 
 "WeaponInspect.Movement2"
@@ -7326,7 +7326,7 @@
 	"channel"	"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"	".2"
-	"wave"		"weapons\weapon_inspect_movement2.wav"
+	"wave"		"weapons/weapon_inspect_movement2.wav"
 }
 
 "WeaponInspect.Movement3"
@@ -7334,7 +7334,7 @@
 	"channel"	"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"	".2"
-	"wave"		"weapons\weapon_inspect_movement3.wav"
+	"wave"		"weapons/weapon_inspect_movement3.wav"
 }
 
 "WeaponInspect.Movement4"
@@ -7342,7 +7342,7 @@
 	"channel"	"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"	".2"
-	"wave"		"weapons\weapon_inspect_movement4.wav"
+	"wave"		"weapons/weapon_inspect_movement4.wav"
 }
 
 // ------------------------------------------------------------------------------------ //
@@ -7356,9 +7356,9 @@
 	"volume"	".2"
 	"rndwave"
 	{
-		"wave"	"weapons\melee_inspect_movement2.wav"
-		"wave"	"weapons\melee_inspect_movement3.wav"
-		"wave"	"weapons\melee_inspect_movement4.wav"
+		"wave"	"weapons/melee_inspect_movement2.wav"
+		"wave"	"weapons/melee_inspect_movement3.wav"
+		"wave"	"weapons/melee_inspect_movement4.wav"
 	}
 }
 
@@ -7367,7 +7367,7 @@
 	"channel"	"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"	".2"
-	"wave"		"weapons\melee_inspect_movement1.wav"
+	"wave"		"weapons/melee_inspect_movement1.wav"
 }
 
 "MeleeInspect.Movement2"
@@ -7375,7 +7375,7 @@
 	"channel"	"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"	".2"
-	"wave"		"weapons\melee_inspect_movement2.wav"
+	"wave"		"weapons/melee_inspect_movement2.wav"
 }
 
 "MeleeInspect.Movement3"
@@ -7383,7 +7383,7 @@
 	"channel"	"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"	".2"
-	"wave"		"weapons\melee_inspect_movement3.wav"
+	"wave"		"weapons/melee_inspect_movement3.wav"
 }
 
 "MeleeInspect.Movement4"
@@ -7391,7 +7391,7 @@
 	"channel"	"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"	".2"
-	"wave"		"weapons\melee_inspect_movement4.wav"
+	"wave"		"weapons/melee_inspect_movement4.wav"
 }
 
 
@@ -7711,7 +7711,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_100dB"
 	"volume"	"1.0"
-	"wave"		")weapons\shooting_star_shoot.wav"
+	"wave"		")weapons/shooting_star_shoot.wav"
 }
 
 "Weapon_ShootingStar.SingleCharged"
@@ -7719,7 +7719,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_100dB"
 	"volume"	"1.0"
-	"wave"		")weapons\shooting_star_shoot_charged.wav"
+	"wave"		")weapons/shooting_star_shoot_charged.wav"
 }
 
 "Weapon_ShootingStar.SingleCrit"
@@ -7727,7 +7727,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_100dB"
 	"volume"	"1.0"
-	"wave"		")weapons\shooting_star_shoot_crit.wav"
+	"wave"		")weapons/shooting_star_shoot_crit.wav"
 }
 
 "Weapon_Capper.Single"
@@ -7735,7 +7735,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_94dB"
 	"volume"	"1.0"
-	"wave"		")weapons\capper_shoot.wav"
+	"wave"		")weapons/capper_shoot.wav"
 }
 
 "Weapon_Capper.SingleCrit"
@@ -7743,7 +7743,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_94dB"
 	"volume"	"1.0"
-	"wave"		")weapons\capper_shoot_crit.wav"
+	"wave"		")weapons/capper_shoot_crit.wav"
 }
 
 // ------------------------------------------------------------------------------------ //
@@ -7950,7 +7950,7 @@
 	"channel"	"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_NORM"
 	"volume"	"1.0"
-	"wave"		"weapons\slap_hit_world1.wav"
+	"wave"		"weapons/slap_hit_world1.wav"
 }
 
 "Weapon_Slap.OpenHandHitWorld"
@@ -7958,7 +7958,7 @@
 	"channel"	"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_NORM"
 	"volume"	"1.0"
-	"wave"		"weapons\slap_hit_world2.wav"
+	"wave"		"weapons/slap_hit_world2.wav"
 }
 
 "Weapon_Slap.BackHand"

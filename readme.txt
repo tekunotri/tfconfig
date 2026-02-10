@@ -1,4 +1,4 @@
-techno config 28/08/25
+techno config 10/02/26
 
 launch options: -console -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime
 1000 dpi // sensitivity 3 - gpx superlight 2
@@ -25,5 +25,5 @@ cleantf2plus flat textures (sometimes)
 
 technohud https://github.com/tekunotri/technohud
 or some random hud in my hud folder https://drive.google.com/file/d/1mYh8S9uWSGpEaPx38waWopuQ7xlcutTG/view
-
+or some random hud in my github
 
